@@ -24,4 +24,4 @@ Clone or download this game repository to your local machine.
 Ensure your virtual environment is active.
 Navigate to the directory containing the game files.
 Right-click (if on windows 11 click more options at the bottom) and select open with code
-Then type "pgzrun coin-collector.py"
+Then type "pgzrun shoot.py"
