@@ -23,7 +23,7 @@ Your command line should now show (spaceenv) indicating the virtual environment 
 ## Installing Pygame
 With your virtual environment active, install Pygame by running:
 
-pip install pygame
+```pip install pygame```
 ## Running the Game
 Clone or download this game repository to your local machine.
 Ensure your virtual environment is active.
